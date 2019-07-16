@@ -2,4 +2,4 @@
 
 Hello, hello.
 
-I'm Linda. I do research for a maize genetics lab while going to school for my PhD.
+I'm Linda. I'm a PhD student in a maize genetics lab. 
